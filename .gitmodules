@@ -1,0 +1,3 @@
+[submodule "calculatorJS"]
+	path = calculatorJS
+	url = https://github.com/Eazynesta/calculatorJS
