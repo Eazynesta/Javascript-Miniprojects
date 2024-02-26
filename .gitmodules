@@ -1,3 +1,18 @@
 [submodule "calculatorJS"]
 	path = calculatorJS
 	url = https://github.com/Eazynesta/calculatorJS
+[submodule "digitalClock"]
+	path = digitalClock
+	url = https://github.com/Eazynesta/digitalClock
+[submodule "pokemonAPI"]
+	path = pokemonAPI
+	url = https://github.com/Eazynesta/pokemonAPI
+[submodule "rockpaperscissorsjs"]
+	path = rockpaperscissorsjs
+	url = https://github.com/Eazynesta/rockpaperscissorsjs
+[submodule "stopwatchJs"]
+	path = stopwatchJs
+	url = https://github.com/Eazynesta/stopwatchJs
+[submodule "passwordGen-js"]
+	path = passwordGen-js
+	url = https://github.com/Eazynesta/passwordGen-js
